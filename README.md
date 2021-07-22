@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi, I'm Daniel Oseguera 👋💻👨‍💻
+
+Hi everyone 👋 I'm a Software Engineer i like to learn new things everytime and share my knowledge with everyone.
+
+## My stack
+
+**Primary:** PHP, Laravel, JavaScript, Java.
+
+**Familiar:** ReactJS, NodeJS, Spring Boot.
+
 
 <!--
 **systemEDOM/systemEDOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
