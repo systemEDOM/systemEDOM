@@ -12,6 +12,7 @@
 <a href="https://linkedin.com/in/sysedom"><img src="https://img.shields.io/badge/Mode-Remote-113052?style=flat-square&logo=wifi&logoColor=88B6E7" alt="Remote" /></a>
 <img src="https://img.shields.io/badge/Experience-8%2B%20Years-113052?style=flat-square&logo=clockify&logoColor=88B6E7" alt="8+ Years" />
 <img src="https://img.shields.io/badge/Focus-Fintech%20%C2%B7%20Banking%20%C2%B7%20Healthcare-113052?style=flat-square&logo=target&logoColor=88B6E7" alt="Focus" />
+<a href="https://danieloseguera.omsoft.com.mx"><img src="https://img.shields.io/badge/Website-danieloseguera.omsoft.com.mx-113052?style=flat-square&logo=googlechrome&logoColor=88B6E7" alt="Website" /></a>
 
 </div>
 
@@ -129,6 +130,7 @@
 
 <p>Open to building fast, reliable software — and to conversations about AI, fintech and scalable systems.</p>
 
+<a href="https://danieloseguera.omsoft.com.mx"><img src="https://img.shields.io/badge/Website-danieloseguera.omsoft.com.mx-113052?style=for-the-badge&logo=googlechrome&logoColor=88B6E7" alt="Website" /></a>
 <a href="mailto:edaniel.oseguera@gmail.com"><img src="https://img.shields.io/badge/Email-edaniel.oseguera%40gmail.com-113052?style=for-the-badge&logo=gmail&logoColor=88B6E7" alt="Email" /></a>
 <a href="https://linkedin.com/in/sysedom"><img src="https://img.shields.io/badge/LinkedIn-sysedom-113052?style=for-the-badge&logo=linkedin&logoColor=88B6E7" alt="LinkedIn" /></a>
 <a href="https://github.com/systemEDOM"><img src="https://img.shields.io/badge/GitHub-systemEDOM-2770BE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
