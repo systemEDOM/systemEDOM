@@ -117,7 +117,7 @@
 
 <br/><br/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=systemEDOM&theme=github_dark" alt="Profile details" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=systemEDOM&theme=github_dark&t=2" alt="Profile details" />
 
 </div>
 
